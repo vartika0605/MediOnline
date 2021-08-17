@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.vscode/
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
+
+data.json
+*.env
